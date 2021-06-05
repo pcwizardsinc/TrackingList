@@ -1,5 +1,7 @@
 #Tracking Servers
 #Block List
+#June 5th 2021
+#
 userreport.com
 lijit.com
 quantserve.com
@@ -23,3 +25,17 @@ imrworldwide.com
 bidr.io
 quantserve.com
 optimizely.com
+cdn.segment.com
+secure-us.imrworldwide.com
+js.taplytics.com
+s.go-mpulse.net
+js-agent.newrelic.com
+sb.scorecardresearch.com
+bcp.crwdcntrl.net
+tags.bluekai.com
+idsync.rlcdn.com
+ats.rlcdn.com
+www.summerhamster.com
+aep.mxptint.net
+logx.optimizely.com
+zqtk.net
